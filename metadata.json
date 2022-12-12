@@ -1,0 +1,9 @@
+{
+    "title": "Visualizing Pittsburgh Steps Data",
+    "plugins": {
+        "datasette-cluster-map": {
+            "latitude_column": "latitude",
+            "longitude_column": "longitude"
+        }
+    }
+}
